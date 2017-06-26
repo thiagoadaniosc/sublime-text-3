@@ -1,0 +1,1370 @@
+{
+	"folder_history":
+	[
+		"/var/www/html/matcss",
+		"/var/www/html/php7",
+		"/var/www/html/udemyphp1",
+		"/var/www/html/aluraphp1",
+		"/home/thiagoubuntu/Área de Trabalho/ProjetosGit/aluraphp1",
+		"/home/thiagoubuntu/Área de Trabalho/ProjetosGit/politizar",
+		"/run/user/1000/gvfs/smb-share:server=desktop-2hqf7uf,share=www/alura_php1"
+	],
+	"last_version": 3126,
+	"last_window_id": 20,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 695.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"resul",
+						"$resultado〔variable〕"
+					],
+					[
+						"te",
+						"texto"
+					],
+					[
+						"text",
+						"texto2"
+					],
+					[
+						"subtr",
+						"substr"
+					],
+					[
+						"pcre",
+						"PCRE_VERSION"
+					],
+					[
+						"str_re",
+						"str_replace"
+					],
+					[
+						"arr",
+						"array〔keyword〕"
+					],
+					[
+						"nome",
+						"nome1"
+					],
+					[
+						"aler",
+						"alert-success\t(remover.php)"
+					],
+					[
+						"conexa",
+						"conexao\t(lista_produto.php)"
+					],
+					[
+						"incl",
+						"include"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"st",
+						"style\tAttr"
+					],
+					[
+						"whi",
+						"while〔keyword〕"
+					],
+					[
+						"tex",
+						"text-danger\t(add-produto.php)"
+					],
+					[
+						"text-",
+						"text-danger\t(add-produto.php)"
+					],
+					[
+						"table",
+						"table-bordered \tBootstrap 4 Class"
+					],
+					[
+						"table-s",
+						"table-striped \tBootstrap 3 Class"
+					],
+					[
+						"ta",
+						"table-responsive \tBootstrap 3 Class"
+					],
+					[
+						"bootstrap",
+						"bootstrap-theme.css"
+					],
+					[
+						"thead",
+						"thead-inverse \tBootstrap 4 Class"
+					],
+					[
+						"navba",
+						"navbar-inverse\t(header.php)"
+					],
+					[
+						"pad",
+						"padding-left"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"navbar-fi",
+						"navbar-fixed-top \tBootstrap 3 Class"
+					],
+					[
+						"hea",
+						"header\tTag"
+					],
+					[
+						"is_nu",
+						"is_numeric〔function〕"
+					],
+					[
+						"mysqli",
+						"mysqli_info〔function〕"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 328.0,
+				"last_filter": "git gutter",
+				"selected_items":
+				[
+					[
+						"git gutter",
+						"Preferences: GitGutter Settings"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"gitsta",
+						"Git: Stash"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"new folder",
+						"File: New Folder Relative to Current View"
+					],
+					[
+						"new fold",
+						"File: New Folder Relative to Current View"
+					],
+					[
+						"new file",
+						"File: New File Relative to Current View"
+					],
+					[
+						"new fol",
+						"File: New Folder Relative to Project Root"
+					],
+					[
+						"newfi",
+						"File: New File Relative to Current View"
+					],
+					[
+						"new dire",
+						"File: New Folder Relative to Project Root"
+					],
+					[
+						"new file re",
+						"File: New File Relative to Current View"
+					],
+					[
+						"new file ",
+						"File: New File Relative to Current View"
+					],
+					[
+						"newf",
+						"ANF: New File"
+					],
+					[
+						"new f",
+						"File: New File Relative to Current View"
+					],
+					[
+						"new folde",
+						"File: New Folder Relative to Project Root"
+					],
+					[
+						"ss php",
+						"Set Syntax: PHP"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"boxy ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"color",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"theme",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"intall",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Advanced Install Package"
+					],
+					[
+						"isntallpa",
+						"Package Control: Install Package"
+					],
+					[
+						"ssph",
+						"Set Syntax: PHP"
+					],
+					[
+						"newfile",
+						"ANF: New File"
+					],
+					[
+						"pakage control",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"show all",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"linter",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"linster",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"lnster",
+						"SublimeLinter: Show Errors on Save"
+					],
+					[
+						"box",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"insall",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"netfont",
+						"FontCycler - Prev Font"
+					],
+					[
+						"ssphp",
+						"Set Syntax: PHP"
+					],
+					[
+						"n",
+						"Set Syntax: NAnt Build File"
+					],
+					[
+						"font",
+						"FontCycler - Next Font"
+					],
+					[
+						"c",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"color su",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"gitstat",
+						"GitStatus: Changed files"
+					],
+					[
+						"sshml",
+						"Set Syntax: HTML"
+					],
+					[
+						"emmet",
+						"Toggle Comment"
+					],
+					[
+						"remoe",
+						"Package Control: Remove Package"
+					],
+					[
+						"sshtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"emme",
+						"Set Syntax: Emmet"
+					],
+					[
+						"gitp",
+						"Git: Push"
+					],
+					[
+						"install ",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"install t",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"goto",
+						"PHPCompanion:Goto Definition Scope"
+					],
+					[
+						"listpa",
+						"Package Control: List Packages"
+					],
+					[
+						"in",
+						"Install Package Control"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 416.0
+			},
+			"console":
+			{
+				"height": 182.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/var/www/html/php7/include/inc/exemplo1.php",
+				"/var/www/html/php7/include/exemplo1.php",
+				"/var/www/html/php7/strings/exemplo4.php",
+				"/var/www/html/php7/strings/exemplo3.php",
+				"/var/www/html/php7/strings/exemplo2.php",
+				"/var/www/html/php7/strings/exemplo1.php",
+				"/var/www/html/php7/operadores/exemplo8.php",
+				"/var/www/html/php7/operadores/exemplo7.php",
+				"/var/www/html/php7/operadores/exemplo6.php",
+				"/var/www/html/php7/operadores/exemplo5.php",
+				"/var/www/html/php7/operadores/exemplo4.php",
+				"/var/www/html/php7/operadores/exemplo2.php",
+				"/var/www/html/php7/operadores/exemplo3.php",
+				"/var/www/html/php7/exemplo4.php",
+				"/var/www/html/php7/operadores/exemplo1.php",
+				"/var/www/html/php7/exemplo1",
+				"/var/www/html/php7/var5.php",
+				"/var/www/html/php7/var_global.php",
+				"/var/www/html/php7/var3.php",
+				"/var/www/html/php7/var2.php",
+				"/var/www/html/php7/aula01.php",
+				"/var/www/html/php7/var.php",
+				"/var/www/html/php7/.gitignore",
+				"/var/www/html/php7/php7",
+				"/var/www/html/udemyphp1/index.php",
+				"/var/www/html/udemyphp1/api/routes.php",
+				"/var/www/html/aluraphp1/index.php",
+				"/var/www/html/aluraphp1/remover.php",
+				"/var/www/html/aluraphp1/lista_produto.php",
+				"/var/www/html/aluraphp1/conexao.php",
+				"/var/www/html/aluraphp1/formulario.php",
+				"/var/www/html/aluraphp1/add-produto.php",
+				"/var/www/html/aluraphp1/css/loja.css",
+				"/var/www/html/aluraphp1/conexao",
+				"/var/www/html/aluraphp1/header.php",
+				"/var/www/html/aluraphp1/footer.php",
+				"/var/www/html/aluraphp1/css/bootstrap-theme.min.css.map",
+				"/var/www/html/aluraphp1/css/bootstrap.css",
+				"/var/www/html/aluraphp1/W:\\XAMPP\\php\\logs\\php_error_log",
+				"/var/www/html/aluraphp1/phpinfo.php",
+				"/home/thiagoubuntu/Área de Trabalho/ProjetosGit/aluraphp1/add-produto.php",
+				"/home/thiagoubuntu/.config/sublime-text-3/Packages/User/HTMLBeautify.sublime-settings",
+				"/home/thiagoubuntu/.config/sublime-text-3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+				"/home/thiagoubuntu/Área de Trabalho/ProjetosGit/aluraphp1/footer.php",
+				"/home/thiagoubuntu/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/home/thiagoubuntu/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/home/thiagoubuntu/Área de Trabalho/ProjetosGit/politizar/app/Http/Kernel.php",
+				"/home/thiagoubuntu/Área de Trabalho/ProjetosGit/politizar/app/User.php",
+				"/home/thiagoubuntu/Área de Trabalho/ProjetosGit/politizar/index.php",
+				"/home/thiagoubuntu/Área de Trabalho/ProjetosGit/politizar/.gitignore",
+				"/home/thiagoubuntu/Área de Trabalho/ProjetosGit/politizar/.gitattributes",
+				"/run/user/1000/gvfs/smb-share:server=desktop-2hqf7uf,share=www/alura_php1/add-produto.php"
+			],
+			"find":
+			{
+				"height": 54.0
+			},
+			"find_in_files":
+			{
+				"height": 150.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					");",
+					">\n",
+					"thead-inverse",
+					"thead",
+					"inverse",
+					"thead",
+					"\">\n",
+					"principal",
+					"NAVBAR",
+					"2",
+					"\t",
+					"Produto",
+					"\");\t\t\t",
+					"header",
+					"header.php",
+					"php",
+					"header"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 46.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 98.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"add",
+						"add-produto.php"
+					],
+					[
+						"remov",
+						"remover.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 132.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 683.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"getEleme",
+						"getElementById\t( elementId: DOMString ): Element Document"
+					],
+					[
+						"w",
+						"while\t(exemplo1.php)"
+					],
+					[
+						"co",
+						"condicao"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"array",
+						"array〔keyword〕"
+					],
+					[
+						"idadeM",
+						"idadeMaior"
+					],
+					[
+						"qua",
+						"qualAsuaIdade"
+					],
+					[
+						"r",
+						"ready\tjQuery(document).ready"
+					],
+					[
+						"ready",
+						"ready\tdocument.ready - $(function(){})"
+					],
+					[
+						"php",
+						"phpinfo"
+					],
+					[
+						"resul",
+						"$resultado〔variable〕"
+					],
+					[
+						"te",
+						"texto"
+					],
+					[
+						"text",
+						"texto2"
+					],
+					[
+						"subtr",
+						"substr"
+					],
+					[
+						"pcre",
+						"PCRE_VERSION"
+					],
+					[
+						"str_re",
+						"str_replace"
+					],
+					[
+						"arr",
+						"array〔keyword〕"
+					],
+					[
+						"nome",
+						"nome1"
+					],
+					[
+						"aler",
+						"alert-success\t(remover.php)"
+					],
+					[
+						"conexa",
+						"conexao\t(lista_produto.php)"
+					],
+					[
+						"incl",
+						"include"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"st",
+						"style\tAttr"
+					],
+					[
+						"whi",
+						"while〔keyword〕"
+					],
+					[
+						"tex",
+						"text-danger\t(add-produto.php)"
+					],
+					[
+						"text-",
+						"text-danger\t(add-produto.php)"
+					],
+					[
+						"table",
+						"table-bordered \tBootstrap 4 Class"
+					],
+					[
+						"table-s",
+						"table-striped \tBootstrap 3 Class"
+					],
+					[
+						"ta",
+						"table-responsive \tBootstrap 3 Class"
+					],
+					[
+						"bootstrap",
+						"bootstrap-theme.css"
+					],
+					[
+						"thead",
+						"thead-inverse \tBootstrap 4 Class"
+					],
+					[
+						"navba",
+						"navbar-inverse\t(header.php)"
+					],
+					[
+						"pad",
+						"padding-left"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"navbar-fi",
+						"navbar-fixed-top \tBootstrap 3 Class"
+					],
+					[
+						"hea",
+						"header\tTag"
+					],
+					[
+						"is_nu",
+						"is_numeric〔function〕"
+					],
+					[
+						"mysqli",
+						"mysqli_info〔function〕"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/var/www/html/php7/while/exemplo1.php",
+					"settings":
+					{
+						"buffer_size": 225,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/var/www/html/php7/while/exemplo2.php",
+					"settings":
+					{
+						"buffer_size": 155,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/var/www/html/php7/while/exemplo3.php",
+					"settings":
+					{
+						"buffer_size": 368,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 110.0,
+				"last_filter": "reident",
+				"selected_items":
+				[
+					[
+						"reident",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"new f",
+						"File: New File Relative to Current View"
+					],
+					[
+						"new",
+						"File: New File Relative to Current View"
+					],
+					[
+						"reidente",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"new file",
+						"File: New File Relative to Current View"
+					],
+					[
+						"new folder",
+						"File: New Folder Relative to Current View"
+					],
+					[
+						"git gutter",
+						"Preferences: GitGutter Settings"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"gitsta",
+						"Git: Stash"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"new fold",
+						"File: New Folder Relative to Current View"
+					],
+					[
+						"new fol",
+						"File: New Folder Relative to Project Root"
+					],
+					[
+						"newfi",
+						"File: New File Relative to Current View"
+					],
+					[
+						"new dire",
+						"File: New Folder Relative to Project Root"
+					],
+					[
+						"new file re",
+						"File: New File Relative to Current View"
+					],
+					[
+						"new file ",
+						"File: New File Relative to Current View"
+					],
+					[
+						"newf",
+						"ANF: New File"
+					],
+					[
+						"new folde",
+						"File: New Folder Relative to Project Root"
+					],
+					[
+						"ss php",
+						"Set Syntax: PHP"
+					],
+					[
+						"boxy ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"color",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"theme",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"intall",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Advanced Install Package"
+					],
+					[
+						"isntallpa",
+						"Package Control: Install Package"
+					],
+					[
+						"ssph",
+						"Set Syntax: PHP"
+					],
+					[
+						"newfile",
+						"ANF: New File"
+					],
+					[
+						"pakage control",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"show all",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"linter",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"linster",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"lnster",
+						"SublimeLinter: Show Errors on Save"
+					],
+					[
+						"box",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"insall",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"netfont",
+						"FontCycler - Prev Font"
+					],
+					[
+						"ssphp",
+						"Set Syntax: PHP"
+					],
+					[
+						"n",
+						"Set Syntax: NAnt Build File"
+					],
+					[
+						"font",
+						"FontCycler - Next Font"
+					],
+					[
+						"c",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"color su",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"gitstat",
+						"GitStatus: Changed files"
+					],
+					[
+						"sshml",
+						"Set Syntax: HTML"
+					],
+					[
+						"emmet",
+						"Toggle Comment"
+					],
+					[
+						"remoe",
+						"Package Control: Remove Package"
+					],
+					[
+						"sshtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"emme",
+						"Set Syntax: Emmet"
+					],
+					[
+						"gitp",
+						"Git: Push"
+					],
+					[
+						"install ",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"install t",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"goto",
+						"PHPCompanion:Goto Definition Scope"
+					],
+					[
+						"listpa",
+						"Package Control: List Packages"
+					],
+					[
+						"in",
+						"Install Package Control"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 404.0
+			},
+			"console":
+			{
+				"height": 182.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/var/www/html/php7",
+				"/var/www/html/php7/outros",
+				"/var/www/html/php7/strings",
+				"/var/www/html/php7/switch"
+			],
+			"file_history":
+			[
+				"/var/www/html/php7/foreach/exemplo1.php",
+				"/var/www/html/php7/foreach/exemplo2.php",
+				"/var/www/html/php7/foreach",
+				"/var/www/html/php7/for/exemplo1.php",
+				"/var/www/html/php7/for/exemplo2.php",
+				"/var/www/html/php7/for/exemplo3.php",
+				"/var/www/html/php7/switch/exemplo1.php",
+				"/var/www/html/matcss/index.php",
+				"/var/www/html/php7/if/exemplo1.php",
+				"/var/www/html/php7/include/inc/exemplo1.php",
+				"/var/www/html/php7/include/exemplo2.php",
+				"/var/www/html/php7/include/exemplo1.php",
+				"/var/www/html/php7/strings/exemplo4.php",
+				"/var/www/html/php7/strings/exemplo3.php",
+				"/var/www/html/php7/strings/exemplo2.php",
+				"/var/www/html/php7/strings/exemplo1.php",
+				"/var/www/html/php7/operadores/exemplo8.php",
+				"/var/www/html/php7/operadores/exemplo7.php",
+				"/var/www/html/php7/operadores/exemplo6.php",
+				"/var/www/html/php7/operadores/exemplo5.php",
+				"/var/www/html/php7/operadores/exemplo4.php",
+				"/var/www/html/php7/operadores/exemplo2.php",
+				"/var/www/html/php7/operadores/exemplo3.php",
+				"/var/www/html/php7/exemplo4.php",
+				"/var/www/html/php7/operadores/exemplo1.php",
+				"/var/www/html/php7/exemplo1",
+				"/var/www/html/php7/var5.php",
+				"/var/www/html/php7/var_global.php",
+				"/var/www/html/php7/var3.php",
+				"/var/www/html/php7/var2.php",
+				"/var/www/html/php7/aula01.php",
+				"/var/www/html/php7/var.php",
+				"/var/www/html/php7/.gitignore",
+				"/var/www/html/php7/php7",
+				"/var/www/html/udemyphp1/index.php",
+				"/var/www/html/udemyphp1/api/routes.php",
+				"/var/www/html/aluraphp1/index.php",
+				"/var/www/html/aluraphp1/remover.php",
+				"/var/www/html/aluraphp1/lista_produto.php",
+				"/var/www/html/aluraphp1/conexao.php",
+				"/var/www/html/aluraphp1/formulario.php",
+				"/var/www/html/aluraphp1/add-produto.php",
+				"/var/www/html/aluraphp1/css/loja.css",
+				"/var/www/html/aluraphp1/conexao",
+				"/var/www/html/aluraphp1/header.php",
+				"/var/www/html/aluraphp1/footer.php",
+				"/var/www/html/aluraphp1/css/bootstrap-theme.min.css.map",
+				"/var/www/html/aluraphp1/css/bootstrap.css",
+				"/var/www/html/aluraphp1/W:\\XAMPP\\php\\logs\\php_error_log",
+				"/var/www/html/aluraphp1/phpinfo.php",
+				"/home/thiagoubuntu/Área de Trabalho/ProjetosGit/aluraphp1/add-produto.php",
+				"/home/thiagoubuntu/.config/sublime-text-3/Packages/User/HTMLBeautify.sublime-settings",
+				"/home/thiagoubuntu/.config/sublime-text-3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+				"/home/thiagoubuntu/Área de Trabalho/ProjetosGit/aluraphp1/footer.php",
+				"/home/thiagoubuntu/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/home/thiagoubuntu/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/home/thiagoubuntu/Área de Trabalho/ProjetosGit/politizar/app/Http/Kernel.php",
+				"/home/thiagoubuntu/Área de Trabalho/ProjetosGit/politizar/app/User.php",
+				"/home/thiagoubuntu/Área de Trabalho/ProjetosGit/politizar/index.php",
+				"/home/thiagoubuntu/Área de Trabalho/ProjetosGit/politizar/.gitignore",
+				"/home/thiagoubuntu/Área de Trabalho/ProjetosGit/politizar/.gitattributes",
+				"/run/user/1000/gvfs/smb-share:server=desktop-2hqf7uf,share=www/alura_php1/add-produto.php"
+			],
+			"find":
+			{
+				"height": 54.0
+			},
+			"find_in_files":
+			{
+				"height": 150.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					">\";",
+					"\n\tcase 3;\n\techo \"Quarta\";\n\tbreak;",
+					");",
+					">\n",
+					"thead-inverse",
+					"thead",
+					"inverse",
+					"thead",
+					"\">\n",
+					"principal",
+					"NAVBAR",
+					"2",
+					"\t",
+					"Produto",
+					"\");\t\t\t",
+					"header",
+					"header.php",
+					"php",
+					"header"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/var/www/html/php7"
+				},
+				{
+					"path": "/var/www/html/matcss"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/var/www/html/php7/while/exemplo1.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 225,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										164,
+										164
+									]
+								],
+								"settings":
+								{
+									"_anf_new": "",
+									"auto_complete": false,
+									"git_gutter_is_enabled": true,
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/var/www/html/php7/while/exemplo2.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 155,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										129,
+										129
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"git_gutter_is_enabled": true,
+									"incomplete_sync": null,
+									"open_with_edit": true,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/var/www/html/php7/while/exemplo3.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 368,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										181,
+										181
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"git_gutter_is_enabled": true,
+									"incomplete_sync": null,
+									"open_with_edit": true,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 297.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 46.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,683,0,1366,695,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 98.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"add",
+						"add-produto.php"
+					],
+					[
+						"remov",
+						"remover.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 147.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
