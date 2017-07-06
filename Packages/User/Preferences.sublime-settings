@@ -8,7 +8,8 @@
 	"color_scheme": "Packages/User/SublimeLinter/Flatland_Monokai (SL).tmTheme",
 	"fade_fold_buttons": false,
 	"font_face": "monospaced",
-	"font_size": 13,
+	"font_size": 11,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"

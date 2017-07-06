@@ -1,16 +1,20 @@
 {
 	"folder_history":
 	[
-		"/var/www/html/matcss",
-		"/var/www/html/php7",
-		"/var/www/html/udemyphp1",
+		"/var/www/html/simple-to-do",
+		"/var/www/html/phpApi",
+		"/var/www/html/js",
 		"/var/www/html/aluraphp1",
+		"/var/www/html/php7",
+		"/var/www/html",
+		"/var/www/html/matcss",
+		"/var/www/html/udemyphp1",
 		"/home/thiagoubuntu/Área de Trabalho/ProjetosGit/aluraphp1",
 		"/home/thiagoubuntu/Área de Trabalho/ProjetosGit/politizar",
 		"/run/user/1000/gvfs/smb-share:server=desktop-2hqf7uf,share=www/alura_php1"
 	],
 	"last_version": 3126,
-	"last_window_id": 20,
+	"last_window_id": 22,
 	"log_indexing": false,
 	"settings":
 	{
@@ -21,6 +25,46 @@
 			{
 				"selected_items":
 				[
+					[
+						"getEleme",
+						"getElementById\t( elementId: DOMString ): Element Document"
+					],
+					[
+						"w",
+						"while\t(exemplo1.php)"
+					],
+					[
+						"co",
+						"condicao"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"array",
+						"array〔keyword〕"
+					],
+					[
+						"idadeM",
+						"idadeMaior"
+					],
+					[
+						"qua",
+						"qualAsuaIdade"
+					],
+					[
+						"r",
+						"ready\tjQuery(document).ready"
+					],
+					[
+						"ready",
+						"ready\tdocument.ready - $(function(){})"
+					],
+					[
+						"php",
+						"phpinfo"
+					],
 					[
 						"resul",
 						"$resultado〔variable〕"
@@ -141,10 +185,38 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 328.0,
-				"last_filter": "git gutter",
+				"height": 110.0,
+				"last_filter": "reident",
 				"selected_items":
 				[
+					[
+						"reident",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"new f",
+						"File: New File Relative to Current View"
+					],
+					[
+						"new",
+						"File: New File Relative to Current View"
+					],
+					[
+						"reidente",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"new file",
+						"File: New File Relative to Current View"
+					],
+					[
+						"new folder",
+						"File: New Folder Relative to Current View"
+					],
 					[
 						"git gutter",
 						"Preferences: GitGutter Settings"
@@ -162,16 +234,8 @@
 						"Package Control: List Packages"
 					],
 					[
-						"new folder",
-						"File: New Folder Relative to Current View"
-					],
-					[
 						"new fold",
 						"File: New Folder Relative to Current View"
-					],
-					[
-						"new file",
-						"File: New File Relative to Current View"
 					],
 					[
 						"new fol",
@@ -198,20 +262,12 @@
 						"ANF: New File"
 					],
 					[
-						"new f",
-						"File: New File Relative to Current View"
-					],
-					[
 						"new folde",
 						"File: New Folder Relative to Project Root"
 					],
 					[
 						"ss php",
 						"Set Syntax: PHP"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"boxy ",
@@ -370,7 +426,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 416.0
+				"width": 404.0
 			},
 			"console":
 			{
@@ -391,7 +447,20 @@
 			},
 			"file_history":
 			[
+				"/var/www/html/php7/while/exemplo1.php",
+				"/var/www/html/php7/while/exemplo2.php",
+				"/var/www/html/php7/while/exemplo3.php",
+				"/var/www/html/php7/foreach/exemplo1.php",
+				"/var/www/html/php7/foreach/exemplo2.php",
+				"/var/www/html/php7/foreach",
+				"/var/www/html/php7/for/exemplo1.php",
+				"/var/www/html/php7/for/exemplo2.php",
+				"/var/www/html/php7/for/exemplo3.php",
+				"/var/www/html/php7/switch/exemplo1.php",
+				"/var/www/html/matcss/index.php",
+				"/var/www/html/php7/if/exemplo1.php",
 				"/var/www/html/php7/include/inc/exemplo1.php",
+				"/var/www/html/php7/include/exemplo2.php",
 				"/var/www/html/php7/include/exemplo1.php",
 				"/var/www/html/php7/strings/exemplo4.php",
 				"/var/www/html/php7/strings/exemplo3.php",
@@ -461,6 +530,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					">\";",
+					"\n\tcase 3;\n\techo \"Quarta\";\n\tbreak;",
 					");",
 					">\n",
 					"thead-inverse",
@@ -554,7 +625,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 132.0,
+			"side_bar_width": 139.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -569,6 +640,62 @@
 			{
 				"selected_items":
 				[
+					[
+						"_SE",
+						"$_SESSION〔variable〕"
+					],
+					[
+						"_se",
+						"$_SESSION〔variable〕"
+					],
+					[
+						"arra",
+						"array〔function〕"
+					],
+					[
+						"ca",
+						"carros"
+					],
+					[
+						"print",
+						"print_r〔function〕"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"just",
+						"justify-content-center \tBootstrap 4 Class"
+					],
+					[
+						"nav-ji",
+						"nav-justified \tBootstrap 4 Class"
+					],
+					[
+						"bak",
+						"background-color"
+					],
+					[
+						"getEleme",
+						"getElementById\t( elementId: DOMString ): Element Document"
+					],
+					[
+						"co",
+						"condicao"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"array",
+						"array〔keyword〕"
+					],
 					[
 						"idadeM",
 						"idadeMaior"
@@ -706,28 +833,29 @@
 			"buffers":
 			[
 				{
-					"file": "/var/www/html/matcss/index.php",
+					"file": "/var/www/html/php7/session/exemplo1.php",
 					"settings":
 					{
-						"buffer_size": 2034,
+						"buffer_size": 90,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/var/www/html/php7/if/exemplo1.php",
+					"file": "/var/www/html/php7/session/exemplo2.php",
 					"settings":
 					{
-						"buffer_size": 413,
+						"buffer_size": 135,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/var/www/html/php7/switch/exemplo1.php",
+					"file": "/var/www/html/php7/session/config.php",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 23,
+						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				}
@@ -739,10 +867,66 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 284.0,
-				"last_filter": "new file",
+				"height": 324.0,
+				"last_filter": "new file ",
 				"selected_items":
 				[
+					[
+						"new file ",
+						"File: New File Relative to Current View"
+					],
+					[
+						"new ",
+						"File: New File Relative to Current View"
+					],
+					[
+						"reident",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"newfile c",
+						"File: New File Relative to Current View"
+					],
+					[
+						"new fi",
+						"File: New File Relative to Current View"
+					],
+					[
+						"reiden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"re",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"rei",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"reide",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"reind",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"reidente",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"new f",
+						"File: New File Relative to Current View"
+					],
+					[
+						"new",
+						"File: New File Relative to Current View"
+					],
 					[
 						"new file",
 						"File: New File Relative to Current View"
@@ -750,10 +934,6 @@
 					[
 						"new folder",
 						"File: New Folder Relative to Current View"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"git gutter",
@@ -792,16 +972,8 @@
 						"File: New File Relative to Current View"
 					],
 					[
-						"new file ",
-						"File: New File Relative to Current View"
-					],
-					[
 						"newf",
 						"ANF: New File"
-					],
-					[
-						"new f",
-						"File: New File Relative to Current View"
 					],
 					[
 						"new folde",
@@ -968,7 +1140,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 522.0
+				"width": 880.0
 			},
 			"console":
 			{
@@ -990,11 +1162,34 @@
 			"expanded_folders":
 			[
 				"/var/www/html/php7",
-				"/var/www/html/php7/strings",
-				"/var/www/html/php7/switch"
+				"/var/www/html/php7/JSON",
+				"/var/www/html/php7/constantes"
 			],
 			"file_history":
 			[
+				"/var/www/html/php7/session/exemplo1.php",
+				"/var/www/html/php7/session",
+				"/var/www/html/php7/constantes/exemplo1.php",
+				"/var/www/html/php7/constantes/exemplo2.php",
+				"/var/www/html/php7/constantes/exemplo3.php",
+				"/var/www/html/php7/arrays/exemplo1.php",
+				"/var/www/html/php7/arrays/exemplo2.php",
+				"/var/www/html/php7/arrays/exemplo3.php",
+				"/var/www/html/php7/JSON/exemplo1.php",
+				"/var/www/html/php7/JSON/exemplo2.php",
+				"/var/www/html/aluraphp1/conexao.php",
+				"/var/www/html/simple-to-do/index.php",
+				"/var/www/html/php7/while/exemplo1.php",
+				"/var/www/html/php7/while/exemplo2.php",
+				"/var/www/html/php7/while/exemplo3.php",
+				"/var/www/html/php7/foreach/exemplo1.php",
+				"/var/www/html/php7/foreach/exemplo2.php",
+				"/var/www/html/php7/foreach",
+				"/var/www/html/php7/for/exemplo1.php",
+				"/var/www/html/php7/for/exemplo2.php",
+				"/var/www/html/php7/for/exemplo3.php",
+				"/var/www/html/php7/switch/exemplo1.php",
+				"/var/www/html/matcss/index.php",
 				"/var/www/html/php7/if/exemplo1.php",
 				"/var/www/html/php7/include/inc/exemplo1.php",
 				"/var/www/html/php7/include/exemplo2.php",
@@ -1026,7 +1221,6 @@
 				"/var/www/html/aluraphp1/index.php",
 				"/var/www/html/aluraphp1/remover.php",
 				"/var/www/html/aluraphp1/lista_produto.php",
-				"/var/www/html/aluraphp1/conexao.php",
 				"/var/www/html/aluraphp1/formulario.php",
 				"/var/www/html/aluraphp1/add-produto.php",
 				"/var/www/html/aluraphp1/css/loja.css",
@@ -1067,6 +1261,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					">\";\n",
+					">\";",
+					"\n\tcase 3;\n\techo \"Quarta\";\n\tbreak;",
 					");",
 					">\n",
 					"thead-inverse",
@@ -1104,68 +1301,44 @@
 					"path": "/var/www/html/php7"
 				},
 				{
-					"path": "/var/www/html/matcss"
+					"path": "/var/www/html/simple-to-do"
+				},
+				{
+					"path": "/var/www/html/aluraphp1"
+				},
+				{
+					"path": "/var/www/html/js"
+				},
+				{
+					"path": "/var/www/html/phpApi"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/var/www/html/matcss/index.php",
+							"file": "/var/www/html/php7/session/exemplo1.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2034,
+								"buffer_size": 90,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1928,
-										1928
+										36,
+										36
 									]
 								],
 								"settings":
 								{
 									"auto_complete": false,
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1466.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/var/www/html/php7/if/exemplo1.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 413,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										81,
-										81
-									]
-								],
-								"settings":
-								{
 									"git_gutter_is_enabled": true,
 									"incomplete_sync": null,
 									"remote_loading": false,
@@ -1180,24 +1353,25 @@
 							"type": "text"
 						},
 						{
-							"buffer": 2,
-							"file": "/var/www/html/php7/switch/exemplo1.php",
+							"buffer": 1,
+							"file": "/var/www/html/php7/session/exemplo2.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 0,
+								"buffer_size": 135,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										106,
+										106
 									]
 								],
 								"settings":
 								{
+									"auto_complete": false,
 									"git_gutter_is_enabled": true,
 									"incomplete_sync": null,
 									"open_with_edit": true,
@@ -1210,6 +1384,39 @@
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/var/www/html/php7/session/config.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 23,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										23,
+										23
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"incomplete_sync": null,
+									"open_with_edit": true,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -1255,7 +1462,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,683,0,1366,695,1366,768",
+			"position": "0,1,0,0,0,0,0,0,0,2726,768",
 			"project": "",
 			"replace":
 			{
@@ -1305,7 +1512,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 147.0,
+			"side_bar_width": 233.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
